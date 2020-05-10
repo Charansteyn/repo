@@ -1,2 +1,2 @@
 # repo
-New Repo
+1s time using GitHub.
